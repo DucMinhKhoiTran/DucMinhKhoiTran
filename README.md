@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DucMinhKhoiTran
-- 👀 I’m interested in Cloud Administrator and Mobile Application Development
-- 🌱 I’m currently learning Java, AWS, Azure, Flutter, Dart
+- 👋 Hi, I’m Bryan Tran
+- 👀 I’m interested in Cloud Computing and Mobile Application Development
+- 🌱 I’m currently learning Java, AWS, Azure, Kubernetes, Docker Flutter, Dart
 - 💞️ I’m looking to collaborate on Mobile Project
-- 📫 How to reach me...
+- 📫 Reach me at ducminhkhoitran.tk@gmail.com
 
 <!---
 DucMinhKhoiTran/DucMinhKhoiTran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
