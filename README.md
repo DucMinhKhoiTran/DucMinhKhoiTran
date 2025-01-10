@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bryan Tran
 - 👀 I’m interested in Cloud Computing and Mobile Application Development
-- 🌱 I’m currently learning Javascript, Kotlin, AWS, Azure, Kubernetes, Docker, Flutter, Dart
-- 💞️ I’m looking to collaborate on Mobile Project
+- 🌱 I’m currently learning Javascript, Kotlin, Swift, AWS, Azure, Kubernetes, Docker, React Native 
+- 💞️ I’m looking to collaborate on Mobile App Project
 - 📫 Reach me at bryan@bryantech.ca
 
 <!---
